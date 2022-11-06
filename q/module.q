@@ -24,8 +24,8 @@
     cb:.tmo.derlogistic[.tmo.a2;.tmo.b2;.tmo.x2;.tmo.y2] xs;
     ca+cb};
 
-//last year done: 2014 going down
-.tmo.showYear:2013;
+//last year done: 2013 going down
+.tmo.showYear:2012;
 //.tmo.showYear:0Ni;
 
 .tmo.aggregate:{

@@ -14,7 +14,7 @@ selfIntApp,12.5,5
 compNet,13,5
 defi,13.8,5
 rticaas,14.3,2
-activeMeta,15,5
+activeMetaMgmt,15,5
 digitalHuman,15.5,10
 multiexp,16.5,5
 aiGen,17,2

@@ -26,7 +26,7 @@ connectedHome,19,5
 cognitiveAdv,20.2,5
 aiBase,21.2,2
 softsec,22.5,5
-selfdrive,23.5,10
+selfdriveBase,23.5,10
 carbonNano,24,5
 sdfoo,24.5,2
 nlqa,27.5,2

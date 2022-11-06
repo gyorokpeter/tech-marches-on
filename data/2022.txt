@@ -9,7 +9,7 @@ finopsAug,7.5,5
 telemetry,8.2,2
 aiCausal,9,5
 platformEng,9.8,2
-meta,10.4,10
+metaReally,10.4,10
 dataObs,11,5
 cloudSust,11.8,2
 obsDev,12.4,5

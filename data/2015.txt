@@ -21,7 +21,7 @@ digDex,16.6,5
 microDatacenter,16.9,5
 smartAdv,18.1,5
 advAnalSsDeliver,20,2
-selfdrive,21.1,5
+selfdriveBase,21.1,5
 iot,22.5,5
 speechTranslate,23.2,2
 aiBase,23.8,2

@@ -10,7 +10,7 @@ holoDisplay,12.5,10
 electroVibration,13,5
 affective,13.5,5
 analPresc,14,5
-selfdrive,15.1,5
+selfdriveBase,15.1,5
 biochip,15.5,5
 neurobusiness,15.9,10
 3dScan,16.6,5
@@ -22,14 +22,14 @@ bigData,19.2,5
 3dpComm,20,5
 gameOfLife,21.2,5
 appleWatch,22.3,5
-complexEvProc,23,5
+aleri,23,5
 analCont,23.5,5
 inmemDBMS,24.5,2
 virtualAssistant,25,2
 ar,28.5,5
 m2m,29,5
-hpMon,29.5,5
-nfc,30,2
+hpMonMobile,29.5,5
+nfcBase,30,2
 meshNetS,31,10
 cloudBase,33,2
 vr,40,5

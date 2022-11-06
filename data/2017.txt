@@ -21,7 +21,7 @@ virtualAssistant,19.3,5
 connectedHome,20,5
 deepLearning,21.5,2
 aiBase,22.4,2
-selfdrive,23,10
+selfdriveBase,23,10
 carbonNano,23.6,5
 cognitive,24.5,5
 blockchain,25.3,5
