@@ -40,5 +40,5 @@ actStream,53,2
 biometricAuth,65,2
 carBigBrother,73,5
 locIntel,75,1
-speechRecognition,80,2
+speechRecog,80,2
 analPred,85,1

@@ -45,5 +45,5 @@ consIT,59,2
 biometricAuth,65,2
 ideaMgmt,72,1
 carBigBrother,80,5
-speechRecognition,85,2
+speechRecog,85,2
 analPred,90,1

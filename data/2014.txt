@@ -43,4 +43,4 @@ actStream,55,2
 3dpComp,62,2
 3dScan,70,2
 carBigBrother,80,5
-speechRecognition,85,1
+speechRecog,85,1
