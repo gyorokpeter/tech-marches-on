@@ -1,6 +1,6 @@
 sym,prg,ytm
 humanAug,8,10
-cdn,9.3,5
+contextArch,9.3,5
 brainComputerIf,10,10
 thzWave,10.5,10
 tangibleUI,12.5,10
