@@ -1,6 +1,8 @@
-.tmo.dataDir:`$":",.finos.dep.resolvePath["../data"];
-.tmo.metaPath:`$":",.finos.dep.joinPath(1_string .tmo.dataDir;"meta.txt");
-.tmo.outPath:`$":",.finos.dep.resolvePath["../tmo.svg"];
+if[()~key `.tmo.dataDir;
+    .tmo.dataDir:`$":",.finos.dep.resolvePath["../data"];
+    .tmo.metaPath:`$":",.finos.dep.joinPath(1_string .tmo.dataDir;"meta.txt");
+    .tmo.outPath:`$":",.finos.dep.resolvePath["../tmo.svg"];
+    ];
 
 .tmo.logistic:{[height;rate;xoff;yoff;x]yoff+height%1+exp neg[rate]*x-xoff};
 .tmo.derlogistic:{[height;rate;xoff;yoff;x]yoff+height*exp[x1]%s*s:1+exp x1:(rate*x)-xoff};
@@ -24,8 +26,8 @@
     cb:.tmo.derlogistic[.tmo.a2;.tmo.b2;.tmo.x2;.tmo.y2] xs;
     ca+cb};
 
-//last year done: 2010 going down
-.tmo.showYear:2009;
+//last year done: 2009 going down
+.tmo.showYear:2008;
 //.tmo.showYear:0Ni;
 
 .tmo.aggregate:{
