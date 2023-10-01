@@ -26,12 +26,14 @@ if[()~key `.tmo.dataDir;
     cb:.tmo.derlogistic[.tmo.a2;.tmo.b2;.tmo.x2;.tmo.y2] xs;
     ca+cb};
 
-//last year done: 2008 going down
-.tmo.showYear:2007;
+//last year done: 2007 going down
+.tmo.showYear:2006;
 //.tmo.showYear:0Ni;
 
 .tmo.aggregate:{
     .tmo.ref:1!("S**";enlist",")0:.tmo.metaPath;
+    exec `s#lower sym from .tmo.ref;
+    //select from ([]a:exec lower sym from .tmo.ref;b:exec asc lower sym from .tmo.ref)where a<>b
 
     files:key .tmo.dataDir;
     years:"J"$first each "."vs/:string files;
