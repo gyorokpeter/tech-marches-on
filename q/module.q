@@ -26,8 +26,8 @@ if[()~key `.tmo.dataDir;
     cb:.tmo.derlogistic[.tmo.a2;.tmo.b2;.tmo.x2;.tmo.y2] xs;
     ca+cb};
 
-//last year done: 2007 going down
-.tmo.showYear:2006;
+//last year done: 2006 going down
+.tmo.showYear:2005;
 //.tmo.showYear:0Ni;
 
 .tmo.aggregate:{
@@ -52,8 +52,8 @@ if[()~key `.tmo.dataDir;
     progress};
 
 .tmo.point:{
-    .h.htac[`use;`href`transform!("#",(`s#0 2 5 10f!("2y-";"2y5y";"5y10y";"10y+"))x[`ytm];"translate(",string[x`x],",",string[x`y],")");""]
-    ,.h.htac[`text;`x`y!string(6+x`x;5+x`y);.tmo.ref[x`sym;`label]]};
+    (.h.htac[`use;`href`transform!("#",(`s#0 2 5 10f!("2y-";"2y5y";"5y10y";"10y+"))x[`ytm];"translate(",string[x`x],",",string[x`y],")");""];
+    .h.htac[`text;`x`y!string(6+x`x;5+x`y);.tmo.ref[x`sym;`label]])};
 .tmo.animPoint:{[minYear;maxYear;dur;x]
     if[first[x`year]>minYear;
         ly:2#x`year;
@@ -105,6 +105,7 @@ if[()~key `.tmo.dataDir;
     years:exec asc distinct raze year from data;
     yearsPos:yearsLeft+til[count years]*(yearsRight-yearsLeft)%count[years]-1;
     dur:"5s";
+    pts:.tmo.point each select sym,x:curveX ind, y:curveY ind, ytm from ungroup select sym,ind,ytm from data;
     .h.htac[`svg;`xmlns`xmlns:xlink`width`height!("http://www.w3.org/2000/svg";"http://www.w3.org/1999/xlink";string[curveWidth+curveLeft];string[curveHeight+curveTop+40]);
         .h.htc[`defs;
             .h.htac[`g;enlist[`id]!enlist"2y-";.h.htac[`circle;`cx`cy`r`stroke`fill!string(0;0;5;`black;`white);""]]
@@ -125,7 +126,7 @@ if[()~key `.tmo.dataDir;
                 ,.h.htac[`animateTransform;`attributeName`attributeType`fill`dur`type`from`to`repeatCount!("transform";"XML";
                     "freeze";dur;"translate";" "sv string(yearsLeft;yearsMarkerTop);" "sv string(yearsRight;yearsMarkerTop);"indefinite");""]
             ];
-            raze[.tmo.point each select sym,x:curveX ind, y:curveY ind, ytm from ungroup select sym,ind,ytm from data]
+            raze[pts[;1]],raze[pts[;0]]
         ]
     ]};
 
