@@ -25,4 +25,4 @@ ePaper,51,2
 tabletPC,55,2
 soa,65,2
 locAwareApp,70,2
-webSvc,85,1
+webSvcBasic,85,1

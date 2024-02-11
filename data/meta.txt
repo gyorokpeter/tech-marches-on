@@ -1,4 +1,4 @@
-sym,label,resource,parent
+sym,label,resource,parent,altNames
 3dcam,3d Sensing Cameras,https://spectrum.ieee.org/transportation/sensors/3-types-of-3d-sensing-for-sphones-and-selfdriving-cars,
 3dDisplay,3D Flat-Panel TVs and Displays,https://en.wikipedia.org/wiki/3D_display#Stereoscopic_displays,
 3dpBase,3D Printing,https://en.wikipedia.org/wiki/3D_printing,
@@ -68,16 +68,18 @@ behaviorEco,Behavioral Economics,https://en.wikipedia.org/wiki/Behavioral_econom
 bigData,Big Data,https://en.wikipedia.org/wiki/Big_data,
 bioacoustic,Bioacoustic Sensing,https://www.predictiveanalyticstoday.com/what-is-bioacoustic-sensing/,
 biochip,Biochips,https://en.wikipedia.org/wiki/Biochip,
-biodegSensor,Biodegradable Sensors,https://www.theengin,eer.co.uk/biodegradable-sensor-diagnosis/
-biometricAuth,Biometric Authentication Methods,https://towardsdatascience.com/biometric-authentication-methods-61c96666883a,
-biometricID,Biometric Identity Documents,https://en.wikipedia.org/wiki/Biometric_passport,
-biometricPay,Biometric Payments,https://www.techtarget.com/searchsecurity/definition/biometric-payment,
+biodegSensor,Biodegradable Sensors,https://www.theengineer.co.uk/biodegradable-sensor-diagnosis/,
+biometric,Biometrics,https://en.wikipedia.org/wiki/Biometrics,
+biometricAuth,Biometric Authentication Methods,https://towardsdatascience.com/biometric-authentication-methods-61c96666883a,biometric
+biometricID,Biometric Identity Documents,https://en.wikipedia.org/wiki/Biometric_passport,biometric
+biometricPay,Biometric Payments,https://www.techtarget.com/searchsecurity/definition/biometric-payment,biometric
 biotech,Biotech - Cultured or Artificial Tissue,https://en.wikipedia.org/wiki/Tissue_engineering,
 blockchain,Blockchain,https://en.wikipedia.org/wiki/Blockchain,
 blockchainDataSec,Blockchain for Data Security,https://www2.deloitte.com/content/dam/Deloitte/us/Documents/financial-services/us-blockchain-and-cyber-security-lets-discuss.pdf,blockchain
 blueCheck,Truth Verification,https://www.openownership.org/en/blog/what-we-really-mean-when-we-talk-about-verification-truth-verification-part-4-of-4/,
-bluetoothCR,Bluetooth Cable Replacement,https://en.wikipedia.org/wiki/Bluetooth,
-bluetoothNet,Bluetooth Networking,https://en.wikipedia.org/wiki/Bluetooth,
+bluetooth,Bluetooth,https://en.wikipedia.org/wiki/Bluetooth,
+bluetoothCR,Bluetooth Cable Replacement,https://en.wikipedia.org/wiki/Bluetooth,bluetooth
+bluetoothNet,Bluetooth Networking,https://en.wikipedia.org/wiki/Bluetooth,bluetooth
 bpmSuite,BPM Suites,https://en.wikipedia.org/wiki/Business_process_management,
 bprocNet,Business Process Networks,https://en.wikipedia.org/wiki/Business_process_network,
 brainComputerIf,Brain-Computer Interface,https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface,
@@ -144,7 +146,9 @@ dynRiskGov,Dynamic Risk Governance,https://www.gartner.com/en/articles/why-dynam
 edgeComp,Edge Computing,https://en.wikipedia.org/wiki/Edge_computing,
 electroVibration,Electrovibration,https://en.wikipedia.org/wiki/Electrovibration,
 ePaper,Electronic Paper,https://en.wikipedia.org/wiki/Electronic_paper,
-erasablePaper,Erasable Paper Printing Systems,,https://idm.net.au/blog/0011540-erasable-printing-set-go-mainstream
+ePayment,Electronic Payments,https://en.wikipedia.org/wiki/E-commerce_payment_system,,E-payments
+erasablePaper,Erasable Paper Printing Systems,https://idm.net.au/blog/0011540-erasable-printing-set-go-mainstream,
+eTag,e-Tags,???,
 eventArch,Event-Driven Architecture,https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture,
 exoskeleton,Exoskeleton,https://en.wikipedia.org/wiki/Powered_exoskeleton,
 expertiseLoc,Expertise Location and Management,https://en.wikipedia.org/wiki/Expertise_finding,
@@ -166,6 +170,7 @@ hpPass,Health Passport,https://www.theguardian.com/world/2020/oct/17/digital-hea
 html5,HTML5,https://en.wikipedia.org/wiki/HTML5,
 humanAug,Human Augmentation,https://www.gov.uk/government/publications/human-augmentation-the-dawn-of-a-new-paradigm,
 ideaMgmt,Idea Management,https://www.braineet.com/blog/idea-management,
+idSvc,Identity Services,https://en.wikipedia.org/wiki/Identity_verification_service,
 imageRecog,Image Recognition,https://en.wikipedia.org/wiki/Computer_vision#Recognition,
 immws,Immersive Workspaces,https://en.wikipedia.org/wiki/Immersive_technology,
 influenceEng,Influence Engineering,https://www.cardiff.ac.uk/crime-security-research-institute/publications/research-briefings/digital-influence-engineering,
@@ -186,9 +191,10 @@ lambdaPaas,Serverless Paas,https://www.cloudflare.com/learning/serverless/glossa
 lcsbcEdge,Low-Cost Single-Board Computers at the Edge,https://www.digikey.co.uk/en/articles/use-single-board-computers-to-create-an-iiot-edge-computing-platform,
 linuxDesk,Linux on Desktop,https://en.wikipedia.org/wiki/Linux,
 linuxWks,Linux on Desktop for Mainstream Business users,https://en.wikipedia.org/wiki/Linux,linuxDesk
-locAware,Location-Aware Technology,https://en.wikipedia.org/wiki/Location_awareness,
-locAwareApp,Location-Aware Applications,https://www.techopedia.com/definition/30836/location-aware-application,
+locAware,Location-Aware Technology,https://en.wikipedia.org/wiki/Location_awareness,locSense
+locAwareApp,Location-Aware Applications,https://www.techopedia.com/definition/30836/location-aware-application,locSense
 locIntel,Location Intelligence,https://www.esri.com/en-us/location-intelligence,
+locSense,Location Sensing,???
 loic,Low-Earth-Orbit Satellite Systems,https://en.wikipedia.org/wiki/Low_Earth_orbit,
 lrWpan,Low-rate Wireless Personal Area Network (802.15.4),https://en.wikipedia.org/wiki/IEEE_802.15.4,
 m2m,Machine-to-Machine Communication Services,https://en.wikipedia.org/wiki/Machine_to_machine,
@@ -204,7 +210,7 @@ messenger,Instant Messaging,https://en.wikipedia.org/wiki/Instant_messaging,
 metaOld,Public Virtual Worlds,https://en.wikipedia.org/wiki/Virtual_world,
 metaReally,Metaverse,https://en.wikipedia.org/wiki/Metaverse,
 microDatacenter,Micro Data Centers,https://en.wikipedia.org/wiki/Micro_data_center,
-microFuelCell,Micro Fuel Cells,https://www.techopedia.com/definition/14969/micro-fuel-cell-mfc,
+microFuelCell,Micro Fuel Cells,https://www.techopedia.com/definition/14969/micro-fuel-cell-mfc,,Personal fuel cells
 microPayment,Internet Micropayment Systems,https://en.wikipedia.org/wiki/Micropayment#Recent_systems,
 mixedReality,Mixed Reality,https://en.wikipedia.org/wiki/Mixed_reality,
 mms,MMS,https://en.wikipedia.org/wiki/Multimedia_Messaging_Service,
@@ -217,6 +223,7 @@ molecularElec,Molecular Transistors,https://en.wikipedia.org/wiki/Molecular_scal
 multiexp,Multiexperience,https://www.cigniti.com/blog/multiexperience-enterprise-digital-transformation/
 mva,Minimum Viable Arhitecture,https://www.softwareyoga.com/minimum-viable-architecture/,
 namedData,Named Data Networking,https://en.wikipedia.org/wiki/Named_data_networking,
+nanoComp,Nanocomputing,https://en.wikipedia.org/wiki/Nanocomputer,
 netTV,Internet TV,https://en.wikipedia.org/wiki/Streaming_television,
 neurobusiness,Neurobusiness,???,
 neuromorphic,Neuromorphic Hardware,https://en.wikipedia.org/wiki/Neuromorphic_engineering,
@@ -224,14 +231,18 @@ nfcBase,Near-field Communication,https://en.wikipedia.org/wiki/Near-field_commun
 nfcPayment,NFC Payment,https://en.wikipedia.org/wiki/Near-field_communication#Commerce,nfc
 nft,Nonfungible Tokens (NFT),https://en.wikipedia.org/wiki/Non-fungible_token,
 nlqa,Natural-Language Question Answering,https://en.wikipedia.org/wiki/Question_answering,
+nlSearch,Natural Language Search,https://en.wikipedia.org/wiki/Natural-language_user_interface,
 obsDev,Observability-Driven Development,https://www.infoq.com/articles/observability-driven-development/,
 oled,Organic Light-Emitting Devices,https://en.wikipedia.org/wiki/OLED,
 oledP,Light-Emitting Polymer,https://en.wikipedia.org/wiki/OLED,
 ontology,Ontologies and Graphs,https://enterprise-knowledge.com/whats-the-difference-between-an-ontology-and-a-knowledge-graph/,
 optane,Optane/MRAM/ReRAM etc.,https://venturebeat.com/2019/11/13/3-emerging-memory-technologies-that-will-change-how-you-handle-data/,
+p2p,Peer-to-Peer Computing,https://en.wikipedia.org/wiki/Peer-to-peer,
 packagedBusiness,Packaged Business Capabilities,https://www.elasticpath.com/blog/what-are-packaged-business-capablities,
+pda,Personal Digital Assitants,https://en.wikipedia.org/wiki/Personal_digital_assistant,,Personal digital assistant phones
 penTablet,Pen-Centric Tablet PCs,https://en.wikipedia.org/wiki/Microsoft_Tablet_PC,tabletPC
 peopleLitTech,People-Literate Technology,https://www.ordnancesurvey.co.uk/newsroom/insights/people-literate-technology,
+pki,Public Key Infrastructure,https://en.wikipedia.org/wiki/Public_key_infrastructure,
 platformEng,Platform Engineering,https://platformengineering.org/blog/what-is-platform-engineering,
 podcast,Podcasting,https://en.wikipedia.org/wiki/Podcast,
 portPers,Portable Personality,https://en.wikipedia.org/wiki/Personality_computing,
@@ -271,7 +282,7 @@ smartRobots,Smart Robots,https://whatis.techtarget.com/definition/smart-robot,
 smartWorkspace,Smart Workspace,https://www.dropbox.com/en_GB/smart-workspace,
 soa,Service-oriented architecture,https://en.wikipedia.org/wiki/Service-oriented_architecture,
 soba,Service-oriented Business Applications,https://www.techopedia.com/definition/4954/service-oriented-business-application-soba,
-socComputing,Social Computing Platforms,,https://en.wikipedia.org/wiki/Social_computing
+socComputing,Social Computing Platforms,https://en.wikipedia.org/wiki/Social_computing,
 socdisttech,Social Distancing Technologies,https://www.triaxtec.com/blog/proximity-trace/what-is-social-distancing-technology-and-why-your-workplace-needs-it/
 socSW,Social Software Suites,https://en.wikipedia.org/wiki/Social_software,
 socTag,Folksonomies,https://en.wikipedia.org/wiki/Folksonomy,
@@ -279,9 +290,10 @@ socTV,Social TV,https://en.wikipedia.org/wiki/Social_television,
 softsec,Software-Defined Security,https://www.entsoe.eu/Technopedia/techsheets/software-defined-security,
 sovCloud,Sovereign Cloud,https://techmonitor.ai/techonology/cloud/sovereign-cloud,
 speechRecog,Speech Recognition,https://en.wikipedia.org/wiki/Speech_recognition,
-speechRecogCallCtr,Speech Recognition for Telephony and Call Center,https://en.wikipedia.org/wiki/Speech_recognition,speechRecog
+speechRecogCallCtr,Speech Recognition for Telephony and Call Center,https://en.wikipedia.org/wiki/Speech_recognition,speechRecog,,Speech Recognition in Call Centers
+speechRecogDesktop,Speech Recognition on Desktops,https://en.wikipedia.org/wiki/Speech_recognition,speechRecog
 speechRecogMobile,Speech Recognition for Mobile Devices,https://en.wikipedia.org/wiki/Speech_recognition,speechRecog
-speechSynth,Text-to-Speech/Speech Synthesis,https://en.wikipedia.org/wiki/Speech_synthesis,
+speechSynth,Text-to-Speech,https://en.wikipedia.org/wiki/Speech_synthesis,,Speech Synthesis
 speechTranslate,Speech-to-Speech Translation,https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html,
 ssd,Solid-State Drives,https://en.wikipedia.org/wiki/Solid-state_drive,
 superapp,Superapps,https://en.wikipedia.org/wiki/Super-app,
@@ -305,20 +317,24 @@ videoSearch,Video Search,https://en.wikipedia.org/wiki/Video_search_engine,
 videoTeleP,Video Telepresence,https://en.wikipedia.org/wiki/Telepresence#Vision_and_sound,teleP
 virtualAssistant,Virtual Assistants,https://en.wikipedia.org/wiki/Virtual_assistant,
 virtualWorld,Virtual Environments/Virtual Worlds,https://en.wikipedia.org/wiki/Virtual_world,
-voip,VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,
-voipP2P,P2P VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,
-voipSvc,VoIP Services,https://en.wikipedia.org/wiki/Voice_over_IP,
+voip,VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,,Voice over IP
+voipP2P,P2P VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,voip
+voipSvc,VoIP Services,https://en.wikipedia.org/wiki/Voice_over_IP,voip
 volumeDisplay,Volumetric Displays,https://en.wikipedia.org/wiki/Volumetric_display,holoDisplay
+vpn,Virtual Private Network,https://en.wikipedia.org/wiki/Virtual_private_network,
 vr,Virtual Reality,https://en.wikipedia.org/wiki/Virtual_reality,
+wap,WAP/Wireless Web,https://en.wikipedia.org/wiki/Wireless_Application_Protocol,
 web2,Web2,https://en.wikipedia.org/wiki/Web_2.0,
 web2wp,Web2 Workplace Technologies,https://en.wikipedia.org/wiki/Web_2.0,web2
 web3,Web3,https://en.wikipedia.org/wiki/Web3,
 webPlat,Web Platforms,https://en.wikipedia.org/wiki/Web_platform,
-webSvc,Basic Web Services,https://en.wikipedia.org/wiki/Web_service,
-webSvcBusiness,Web Services-Enabled Business Models,???,
-wifi3,Wi-Fi 3 (802.11g),https://en.wikipedia.org/wiki/IEEE_802.11g-2003,
-wifi6,Wi-Fi 6 (802.11ax),https://en.wikipedia.org/wiki/Wi-Fi_6,
-wifiHS,Wi-Fi Hot Spots,https://en.wikipedia.org/wiki/Wi-Fi_hotspot,
+webSvc,Web Services,https://en.wikipedia.org/wiki/Web_service,
+webSvcBasic,Basic Web Services,https://en.wikipedia.org/wiki/Web_service,webSvc
+webSvcBusiness,Web Services-Enabled Business Models,???,webSvc
+wifi,Wireless LAN (802.11),https://en.wikipedia.org/wiki/IEEE_802.11,
+wifi3,Wi-Fi 3 (802.11g),https://en.wikipedia.org/wiki/IEEE_802.11g-2003,wifi
+wifi6,Wi-Fi 6 (802.11ax),https://en.wikipedia.org/wiki/Wi-Fi_6,wifi3
+wifiHS,Wi-Fi Hot Spots,https://en.wikipedia.org/wiki/Wi-Fi_hotspot,wifi
 wiki,Wikis,https://en.wikipedia.org/wiki/Wiki,
 wimax,820.16 2004 WiMAX,https://en.wikipedia.org/wiki/WiMAX,
 wimedia,UWB/802.15.3a/WiMedia,https://en.wikipedia.org/wiki/IEEE_802.15#IEEE_802.15.3a,
