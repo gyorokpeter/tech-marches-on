@@ -58,12 +58,15 @@ appleWatch,Wearables,https://en.wikipedia.org/wiki/Wearable_computer,
 appStore,Application Stores,https://en.wikipedia.org/wiki/App_store,
 ar,Augmented Reality,https://en.wikipedia.org/wiki/Augmented_reality,
 arcloud,AR Cloud,https://www.foundry.com/insights/vr-ar-mr/ar-cloud-immersive-technology,ar
+asp,ASPs,https://en.wikipedia.org/wiki/Application_service_provider,
 augDisc,Augmented Data Discovery,https://www.explorium.ai/blog/what-is-augmented-data-discovery-with-explorium/,
 augint,Augmented Intelligence,https://en.wikipedia.org/wiki/Intelligence_amplification,
 authOrig,Authenticated Provenance,https://www.gartner.com/smarterwithgartner/5-emerging-technologies-explained-by-gartner-experts/,
 autoCensor,Automatic Content Recognition,https://en.wikipedia.org/wiki/Automatic_content_recognition,
 autoMobileRobots,Autonomous Mobile Robots,https://www.forbes.com/sites/stevebanker/2019/03/11/the-autonomous-mobile-robot-market-is-taking-off-like-a-rocket-ship/?sh=829196c1603a,
 autoSys,Autonomic Systems,https://www.zdnet.com/article/generative-ai-autonomic-systems-hyperautomation-and-more-top-gartner-list-of-top-tech-trends-in-2022/,
+b2bMarket,B2B E-Markets,https://en.wikipedia.org/wiki/E-commerce,
+b2cMarket,B2C E-Business,https://en.wikipedia.org/wiki/E-commerce,
 behaviorEco,Behavioral Economics,https://en.wikipedia.org/wiki/Behavioral_economics,
 bigData,Big Data,https://en.wikipedia.org/wiki/Big_data,
 bioacoustic,Bioacoustic Sensing,https://www.predictiveanalyticstoday.com/what-is-bioacoustic-sensing/,
@@ -108,6 +111,7 @@ compApp,Composable Applications,https://www.gocertify.com/articles/what-do-we-me
 compBlog,Corporate Blogging,https://en.wikipedia.org/wiki/Corporate_blog,
 compComp,Composable Enterprise,https://www.linkedin.com/pulse/composable-enterprise-cameron-smith/,
 compNet,Composable Networks,https://www.networkworld.com/article/3266106/what-is-composable-infrastructure.html,
+compPortal,Enterprise Portals,https://en.wikipedia.org/wiki/Enterprise_portal,
 computeStorage,Computational Storage,https://www.arm.com/blogs/blueprint/computational-storage,
 connectedHome,Connected Home,https://www.moneysupermarket.com/home-insurance/connected-homes/,
 consIT,Consumerization,https://en.wikipedia.org/wiki/Consumerization_of_information_technology,
@@ -139,6 +143,7 @@ digitalTwinCust,Digital Twin of a Customer,https://www.linkedin.com/pulse/digita
 digitalTwinPers,Digital Twin of the Person,https://en.wikipedia.org/wiki/Digital_twin,digitalTwin
 digops,Digital Ops,https://medium.com/@mattlindop/the-5-facets-of-digital-ops-c27190155eaf,
 digsec,Digital Security,???,
+digSign,Digital Signatures,https://en.wikipedia.org/wiki/Digital_signature,
 dnaComputing,DNA Computing and Storage,https://en.wikipedia.org/wiki/DNA_digital_data_storage,
 dnaLogic,DNA Logic,https://en.wikipedia.org/wiki/DNA_digital_data_storage,
 droneDelivery,Light Cargo Delivery Drones,https://en.wikipedia.org/wiki/Delivery_drone,
@@ -161,6 +166,7 @@ gestureRecog,Gesture Recognition,https://en.wikipedia.org/wiki/Gesture_recogniti
 greenIT,Green IT,https://en.wikipedia.org/wiki/Green_computing,
 grid,Grid Computing,https://en.wikipedia.org/wiki/Grid_computing,
 groupon,Group Buying,https://en.wikipedia.org/wiki/Group_buying,
+headMountDisp,Head-Mounted Displays,https://en.wikipedia.org/wiki/Head-mounted_display,
 holoDisplay,Volumetric and Holographic Displays,https://en.wikipedia.org/wiki/Holographic_display,
 holoDrive,Holographic Storage,https://en.wikipedia.org/wiki/Holographic_data_storage,
 homoEncr,Homomorphic Encryption,https://en.wikipedia.org/wiki/Homomorphic_encryption,
@@ -214,6 +220,7 @@ microFuelCell,Micro Fuel Cells,https://www.techopedia.com/definition/14969/micro
 microPayment,Internet Micropayment Systems,https://en.wikipedia.org/wiki/Micropayment#Recent_systems,
 mixedReality,Mixed Reality,https://en.wikipedia.org/wiki/Mixed_reality,
 mms,MMS,https://en.wikipedia.org/wiki/Multimedia_Messaging_Service,
+mobileCommerce,Mobile Commerce,https://en.wikipedia.org/wiki/Mobile_commerce,,M-Commerce
 mobileOta,Mobile OTA Payment,???,
 mobilePay,Mobile Phone Payments,https://en.wikipedia.org/wiki/Mobile_payment,
 mobileRobots,Mobile Robots,https://en.wikipedia.org/wiki/Mobile_robot,
@@ -237,9 +244,9 @@ oled,Organic Light-Emitting Devices,https://en.wikipedia.org/wiki/OLED,
 oledP,Light-Emitting Polymer,https://en.wikipedia.org/wiki/OLED,
 ontology,Ontologies and Graphs,https://enterprise-knowledge.com/whats-the-difference-between-an-ontology-and-a-knowledge-graph/,
 optane,Optane/MRAM/ReRAM etc.,https://venturebeat.com/2019/11/13/3-emerging-memory-technologies-that-will-change-how-you-handle-data/,
-p2p,Peer-to-Peer Computing,https://en.wikipedia.org/wiki/Peer-to-peer,
+p2p,Peer-to-Peer Computing,https://en.wikipedia.org/wiki/Peer-to-peer,,P2P
 packagedBusiness,Packaged Business Capabilities,https://www.elasticpath.com/blog/what-are-packaged-business-capablities,
-pda,Personal Digital Assitants,https://en.wikipedia.org/wiki/Personal_digital_assistant,,Personal digital assistant phones
+pda,Personal Digital Assitants,https://en.wikipedia.org/wiki/Personal_digital_assistant,,Personal digital assistant phones|PDA phones
 penTablet,Pen-Centric Tablet PCs,https://en.wikipedia.org/wiki/Microsoft_Tablet_PC,tabletPC
 peopleLitTech,People-Literate Technology,https://www.ordnancesurvey.co.uk/newsroom/insights/people-literate-technology,
 pki,Public Key Infrastructure,https://en.wikipedia.org/wiki/Public_key_infrastructure,
@@ -298,6 +305,7 @@ speechTranslate,Speech-to-Speech Translation,https://ai.googleblog.com/2019/05/i
 ssd,Solid-State Drives,https://en.wikipedia.org/wiki/Solid-state_drive,
 superapp,Superapps,https://en.wikipedia.org/wiki/Super-app,
 surfaceUI,Surface Computers,https://en.wikipedia.org/wiki/Surface_computing,
+synthChar,Synthetic Characters,???,
 synthData,Synthetic Data,https://en.wikipedia.org/wiki/Synthetic_data,
 tabletPC,Tablet PCs,https://en.wikipedia.org/wiki/Tablet_computer,
 tangibleUI,Tangible User Interfaces,https://en.wikipedia.org/wiki/Tangible_user_interface,
@@ -323,7 +331,7 @@ voipSvc,VoIP Services,https://en.wikipedia.org/wiki/Voice_over_IP,voip
 volumeDisplay,Volumetric Displays,https://en.wikipedia.org/wiki/Volumetric_display,holoDisplay
 vpn,Virtual Private Network,https://en.wikipedia.org/wiki/Virtual_private_network,
 vr,Virtual Reality,https://en.wikipedia.org/wiki/Virtual_reality,
-wap,WAP/Wireless Web,https://en.wikipedia.org/wiki/Wireless_Application_Protocol,
+wap,WAP/Wireless Web,https://en.wikipedia.org/wiki/Wireless_Application_Protocol,,Wireless Web/WAP
 web2,Web2,https://en.wikipedia.org/wiki/Web_2.0,
 web2wp,Web2 Workplace Technologies,https://en.wikipedia.org/wiki/Web_2.0,web2
 web3,Web3,https://en.wikipedia.org/wiki/Web3,
@@ -331,7 +339,7 @@ webPlat,Web Platforms,https://en.wikipedia.org/wiki/Web_platform,
 webSvc,Web Services,https://en.wikipedia.org/wiki/Web_service,
 webSvcBasic,Basic Web Services,https://en.wikipedia.org/wiki/Web_service,webSvc
 webSvcBusiness,Web Services-Enabled Business Models,???,webSvc
-wifi,Wireless LAN (802.11),https://en.wikipedia.org/wiki/IEEE_802.11,
+wifi,Wireless LAN (802.11),https://en.wikipedia.org/wiki/IEEE_802.11,,Wireless LANs/802.11
 wifi3,Wi-Fi 3 (802.11g),https://en.wikipedia.org/wiki/IEEE_802.11g-2003,wifi
 wifi6,Wi-Fi 6 (802.11ax),https://en.wikipedia.org/wiki/Wi-Fi_6,wifi3
 wifiHS,Wi-Fi Hot Spots,https://en.wikipedia.org/wiki/Wi-Fi_hotspot,wifi
