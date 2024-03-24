@@ -8,6 +8,7 @@ sym,label,resource,parent,altNames
 3dpNano,Nanoscale 3D Printing,https://www.spacedaily.com/reports/Scientists_can_now_3D_print_nanoscale_metal_structures_999.html,
 3dpOrgan,3D Bioprinting Systems for Organ Transplant,https://edition.cnn.com/2022/06/10/health/3d-printed-organs-bioprinting-life-itself-wellness-scn/index.html,3dpBio
 3dScan,3D Scanners,https://en.wikipedia.org/wiki/3D_scanning,
+3dWeb,3D Web,https://en.wikipedia.org/wiki/Web3D,,3-D Web
 4dprint,4D Printing,https://en.wikipedia.org/wiki/4D_printing,
 4g,4G,https://en.wikipedia.org/wiki/4G,
 5g,5G,https://en.wikipedia.org/wiki/5G,
@@ -147,10 +148,11 @@ digSign,Digital Signatures,https://en.wikipedia.org/wiki/Digital_signature,
 dnaComputing,DNA Computing and Storage,https://en.wikipedia.org/wiki/DNA_digital_data_storage,
 dnaLogic,DNA Logic,https://en.wikipedia.org/wiki/DNA_digital_data_storage,
 droneDelivery,Light Cargo Delivery Drones,https://en.wikipedia.org/wiki/Delivery_drone,
+dsl,xDSL/Cable Modems,https://en.wikipedia.org/wiki/Digital_subscriber_line,
 dynRiskGov,Dynamic Risk Governance,https://www.gartner.com/en/articles/why-dynamic-risk-governance-starts-with-shared-data,
 edgeComp,Edge Computing,https://en.wikipedia.org/wiki/Edge_computing,
 electroVibration,Electrovibration,https://en.wikipedia.org/wiki/Electrovibration,
-ePaper,Electronic Paper,https://en.wikipedia.org/wiki/Electronic_paper,
+ePaper,Electronic Paper,https://en.wikipedia.org/wiki/Electronic_paper,Digital ink
 ePayment,Electronic Payments,https://en.wikipedia.org/wiki/E-commerce_payment_system,,E-payments
 erasablePaper,Erasable Paper Printing Systems,https://idm.net.au/blog/0011540-erasable-printing-set-go-mainstream,
 eTag,e-Tags,???,
@@ -189,6 +191,8 @@ iot,Internet of Things,https://en.wikipedia.org/wiki/Internet_of_things,
 iotPlatform,IoT Platform,https://www.kaaproject.org/blog/what-is-iot-platform,iot
 ipad,Media Tablets,https://en.wikipedia.org/wiki/Tablet_computer,tabletPC
 ipv6,IPv6,https://en.wikipedia.org/wiki/IPv6,
+java,Java Language,https://en.wikipedia.org/wiki/Java_(programming_language),
+jini,Jini,https://en.wikipedia.org/wiki/Jini,
 jobBank,Internal Talent Marketplaces,https://www.techtarget.com/searchhrsoftware/feature/4-best-practices-for-creating-an-internal-talent-marketplace,
 kindle,E-Book Readers,https://en.wikipedia.org/wiki/E-reader,
 kinect,Gesture Control Devices,https://www.analyticsinsight.net/things-about-gesture-control-devices-you-should-not-miss/,gestureRecog
@@ -217,7 +221,7 @@ metaOld,Public Virtual Worlds,https://en.wikipedia.org/wiki/Virtual_world,
 metaReally,Metaverse,https://en.wikipedia.org/wiki/Metaverse,
 microDatacenter,Micro Data Centers,https://en.wikipedia.org/wiki/Micro_data_center,
 microFuelCell,Micro Fuel Cells,https://www.techopedia.com/definition/14969/micro-fuel-cell-mfc,,Personal fuel cells
-microPayment,Internet Micropayment Systems,https://en.wikipedia.org/wiki/Micropayment#Recent_systems,
+microPayment,Internet Micropayment Systems,https://en.wikipedia.org/wiki/Micropayment#Recent_systems,Micropayments
 mixedReality,Mixed Reality,https://en.wikipedia.org/wiki/Mixed_reality,
 mms,MMS,https://en.wikipedia.org/wiki/Multimedia_Messaging_Service,
 mobileCommerce,Mobile Commerce,https://en.wikipedia.org/wiki/Mobile_commerce,,M-Commerce
@@ -281,6 +285,7 @@ siliconAnode,Silicon Anode Batteries,https://en.wikipedia.org/wiki/Lithium%E2%80
 skype,Videoc Conferencing,https://en.wikipedia.org/wiki/Videotelephony,
 smallData,Small Data,https://en.wikipedia.org/wiki/Small_data,
 smartAdv,Smart Advisors,???,
+smartCard,Smart Cards,https://en.wikipedia.org/wiki/Smart_card,
 smartDataDisc,Smart Data Discovery,https://www.ibm.com/uk-en/analytics/smart-data-discovery,
 smartDust,Smart Dust,https://en.wikipedia.org/wiki/Smartdust,
 smartFabric,Smart Fabrics,https://en.wikipedia.org/wiki/E-textiles,
@@ -325,6 +330,7 @@ videoSearch,Video Search,https://en.wikipedia.org/wiki/Video_search_engine,
 videoTeleP,Video Telepresence,https://en.wikipedia.org/wiki/Telepresence#Vision_and_sound,teleP
 virtualAssistant,Virtual Assistants,https://en.wikipedia.org/wiki/Virtual_assistant,
 virtualWorld,Virtual Environments/Virtual Worlds,https://en.wikipedia.org/wiki/Virtual_world,
+voicePortal,Voice Portals,https://en.wikipedia.org/wiki/Voice_portal,
 voip,VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,,Voice over IP
 voipP2P,P2P VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,voip
 voipSvc,VoIP Services,https://en.wikipedia.org/wiki/Voice_over_IP,voip
@@ -335,6 +341,7 @@ wap,WAP/Wireless Web,https://en.wikipedia.org/wiki/Wireless_Application_Protocol
 web2,Web2,https://en.wikipedia.org/wiki/Web_2.0,
 web2wp,Web2 Workplace Technologies,https://en.wikipedia.org/wiki/Web_2.0,web2
 web3,Web3,https://en.wikipedia.org/wiki/Web3,
+webDesk,Webtops,https://en.wikipedia.org/wiki/Web_desktop,
 webPlat,Web Platforms,https://en.wikipedia.org/wiki/Web_platform,
 webSvc,Web Services,https://en.wikipedia.org/wiki/Web_service,
 webSvcBasic,Basic Web Services,https://en.wikipedia.org/wiki/Web_service,webSvc
@@ -349,5 +356,6 @@ wimedia,UWB/802.15.3a/WiMedia,https://en.wikipedia.org/wiki/IEEE_802.15#IEEE_802
 wirelessCharger,Wireless Power,https://en.wikipedia.org/wiki/Wireless_power_transfer,
 writingRecog,Handwriting Recognition,https://en.wikipedia.org/wiki/Handwriting_recognition,
 xbrl,Extensible Business Reporting Language,https://en.wikipedia.org/wiki/XBRL,
+xml,XML,https://en.wikipedia.org/wiki/XML,
 yt,Online Video,https://en.wikipedia.org/wiki/Online_video_platform#Video_hosting_sites,
 zoom,Employee Communications Applications,https://www.beekeeper.io/blog/gartner-report-reveals-mobile-first-employee-communications-applications-are-the-future-of-internal-communications/,
