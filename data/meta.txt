@@ -55,7 +55,7 @@ analSocNet,Social Network Analysis,https://en.wikipedia.org/wiki/Social_network_
 analSpeech,Audio Mining/Speech Analytics,https://en.wikipedia.org/wiki/Audio_mining,
 analText,Text Analytics,https://www.tibco.com/reference-center/what-is-text-analytics,
 analVideoSupport,Video Analytics for Customer Service,https://www.azena.com/insights/how-smart-video-analytics-helps-retailers-survive-in-tough-times,
-appleWatch,Wearables,https://en.wikipedia.org/wiki/Wearable_computer,
+appleWatch,Wearables,https://en.wikipedia.org/wiki/Wearable_computer,,Wearable Computers
 appStore,Application Stores,https://en.wikipedia.org/wiki/App_store,
 ar,Augmented Reality,https://en.wikipedia.org/wiki/Augmented_reality,
 arcloud,AR Cloud,https://www.foundry.com/insights/vr-ar-mr/ar-cloud-immersive-technology,ar
@@ -124,6 +124,7 @@ crypto,Cryptocurrencies,https://en.wikipedia.org/wiki/Cryptocurrency,
 cryptoEx,Cryptocurrency Exchange,https://en.wikipedia.org/wiki/Cryptocurrency_exchange,
 dao,Decentralized Autonomous Organization,https://en.wikipedia.org/wiki/Decentralized_autonomous_organization,
 dataFabric,Data Fabric,https://www.netapp.com/data-fabric/what-is-data-fabric/,
+dataMine,Data Mining,https://en.wikipedia.org/wiki/Data_mining,
 dataObs,Data Observability,https://databand.ai/data-observability/,
 dataSci,Data Science,https://en.wikipedia.org/wiki/Data_science,
 dbrPaas,Data Broker PaaS,https://www.databroker.global/about,
@@ -153,7 +154,7 @@ dynRiskGov,Dynamic Risk Governance,https://www.gartner.com/en/articles/why-dynam
 edgeComp,Edge Computing,https://en.wikipedia.org/wiki/Edge_computing,
 electroVibration,Electrovibration,https://en.wikipedia.org/wiki/Electrovibration,
 ePaper,Electronic Paper,https://en.wikipedia.org/wiki/Electronic_paper,Digital ink
-ePayment,Electronic Payments,https://en.wikipedia.org/wiki/E-commerce_payment_system,,E-payments
+ePayment,Electronic Payments,https://en.wikipedia.org/wiki/E-commerce_payment_system,,E-cash|E-payments
 erasablePaper,Erasable Paper Printing Systems,https://idm.net.au/blog/0011540-erasable-printing-set-go-mainstream,
 eTag,e-Tags,???,
 eventArch,Event-Driven Architecture,https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture,
@@ -197,10 +198,12 @@ jobBank,Internal Talent Marketplaces,https://www.techtarget.com/searchhrsoftware
 kindle,E-Book Readers,https://en.wikipedia.org/wiki/E-reader,
 kinect,Gesture Control Devices,https://www.analyticsinsight.net/things-about-gesture-control-devices-you-should-not-miss/,gestureRecog
 knowGraph,Knowledge Graphs,https://en.wikipedia.org/wiki/Knowledge_graph,
+knowMgmt,Knowledge Management,https://en.wikipedia.org/wiki/Knowledge_management,,Knowledge Mgt
 lambdaPaas,Serverless Paas,https://www.cloudflare.com/learning/serverless/glossary/serverless-vs-paas/,
 lcsbcEdge,Low-Cost Single-Board Computers at the Edge,https://www.digikey.co.uk/en/articles/use-single-board-computers-to-create-an-iiot-edge-computing-platform,
-linuxDesk,Linux on Desktop,https://en.wikipedia.org/wiki/Linux,
-linuxWks,Linux on Desktop for Mainstream Business users,https://en.wikipedia.org/wiki/Linux,linuxDesk
+linux,Linux,https://en.wikipedia.org/wiki/Linux,
+linuxDesk,Linux on Desktop,https://en.wikipedia.org/wiki/Linux,linux,
+linuxWks,Linux on Desktop for Mainstream Business users,https://en.wikipedia.org/wiki/Linux,linuxDesk,
 locAware,Location-Aware Technology,https://en.wikipedia.org/wiki/Location_awareness,locSense
 locAwareApp,Location-Aware Applications,https://www.techopedia.com/definition/30836/location-aware-application,locSense
 locIntel,Location Intelligence,https://www.esri.com/en-us/location-intelligence,
@@ -250,7 +253,7 @@ ontology,Ontologies and Graphs,https://enterprise-knowledge.com/whats-the-differ
 optane,Optane/MRAM/ReRAM etc.,https://venturebeat.com/2019/11/13/3-emerging-memory-technologies-that-will-change-how-you-handle-data/,
 p2p,Peer-to-Peer Computing,https://en.wikipedia.org/wiki/Peer-to-peer,,P2P
 packagedBusiness,Packaged Business Capabilities,https://www.elasticpath.com/blog/what-are-packaged-business-capablities,
-pda,Personal Digital Assitants,https://en.wikipedia.org/wiki/Personal_digital_assistant,,Personal digital assistant phones|PDA phones
+pda,Personal Digital Assitants,https://en.wikipedia.org/wiki/Personal_digital_assistant,,PDAs|Personal digital assistant phones|PDA phones
 penTablet,Pen-Centric Tablet PCs,https://en.wikipedia.org/wiki/Microsoft_Tablet_PC,tabletPC
 peopleLitTech,People-Literate Technology,https://www.ordnancesurvey.co.uk/newsroom/insights/people-literate-technology,
 pki,Public Key Infrastructure,https://en.wikipedia.org/wiki/Public_key_infrastructure,
