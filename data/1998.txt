@@ -1,0 +1,24 @@
+sym,prg,ytm,comment
+ubiComp,9,5,the ytm values are fake, the source image doesn't provide estimates
+appleWatch,12.5,5
+biometric,14.5,5
+netTV,16.5,5
+onlineCommunity,17.4,5
+dsl,18.5,5
+xml,20.5,5
+knowMgmt,22.6,2
+extranet,24.3,2
+yt,25.4,2
+voip,26.5,2
+ePayment,27.5,2
+agent,29,2
+avatar,31.2,2
+javaPlat,32.3,2
+netComp,33.5,2
+push,37,2
+cableModem,42,1
+skype,47,1
+speechRecog,56,1
+pda,65,1
+dataMine,75,1
+intranetPub,95,1

@@ -18,6 +18,7 @@ actStream,Activity Streams,https://en.wikipedia.org/wiki/Activity_Streams_(forma
 adml,Adaptive ML,https://www.turing.ac.uk/research/research-projects/adaptive-machine-learning-changing-environments,
 advAnalSsDeliver,Advanced Analytics with Self-Service Delivery,???,
 affective,Affective Computing,https://www.bbvaopenmind.com/en/technology/digital-world/what-is-affective-computing/,
+agent,Agents,???,
 agi,Artificial General Intelligence,https://en.wikipedia.org/wiki/Artificial_general_intelligence,
 aiBase,Machine Learning,https://en.wikipedia.org/wiki/Machine_learning,
 aiCausal,Causal AI,https://www.causalens.com/why-causal-ai/,
@@ -66,6 +67,7 @@ authOrig,Authenticated Provenance,https://www.gartner.com/smarterwithgartner/5-e
 autoCensor,Automatic Content Recognition,https://en.wikipedia.org/wiki/Automatic_content_recognition,
 autoMobileRobots,Autonomous Mobile Robots,https://www.forbes.com/sites/stevebanker/2019/03/11/the-autonomous-mobile-robot-market-is-taking-off-like-a-rocket-ship/?sh=829196c1603a,
 autoSys,Autonomic Systems,https://www.zdnet.com/article/generative-ai-autonomic-systems-hyperautomation-and-more-top-gartner-list-of-top-tech-trends-in-2022/,
+avatar,VRML/Avatars,https://en.wikipedia.org/wiki/Avatar_(computing),
 b2bMarket,B2B E-Markets,https://en.wikipedia.org/wiki/E-commerce,
 b2cMarket,B2C E-Business,https://en.wikipedia.org/wiki/E-commerce,
 behaviorEco,Behavioral Economics,https://en.wikipedia.org/wiki/Behavioral_economics,
@@ -92,6 +94,7 @@ broadbandOnPower,Broadband Over Power Lines,https://en.wikipedia.org/wiki/Broadb
 businessRuleEng,Business Rule Engines,https://en.wikipedia.org/wiki/Business_rules_engine,
 byod,Bring Your Own Device,https://en.wikipedia.org/wiki/Bring_your_own_device,
 byoid,Bring Your Own Identity,https://www.ubisecure.com/education/bring-your-own-identity-byoi/,
+cableModem,Cable Modems,https://en.wikipedia.org/wiki/Cable_modem,
 carBigBrother,Consumer Telematics,https://infotechlead.com/iot/potential-of-consumer-telematics-is-huge-indeed-explore-the-aspects-68578,
 carbonNano,Carbon Nanotube,https://en.wikipedia.org/wiki/Carbon_nanotube,
 carbonTrans,Carbon-Based Transistors,https://news.mit.edu/2020/carbon-nanotube-transistors-factory-0601,
@@ -149,17 +152,18 @@ digSign,Digital Signatures,https://en.wikipedia.org/wiki/Digital_signature,
 dnaComputing,DNA Computing and Storage,https://en.wikipedia.org/wiki/DNA_digital_data_storage,
 dnaLogic,DNA Logic,https://en.wikipedia.org/wiki/DNA_digital_data_storage,
 droneDelivery,Light Cargo Delivery Drones,https://en.wikipedia.org/wiki/Delivery_drone,
-dsl,xDSL/Cable Modems,https://en.wikipedia.org/wiki/Digital_subscriber_line,
+dsl,xDSL/Cable Modems,https://en.wikipedia.org/wiki/Digital_subscriber_line,,xDSL
 dynRiskGov,Dynamic Risk Governance,https://www.gartner.com/en/articles/why-dynamic-risk-governance-starts-with-shared-data,
 edgeComp,Edge Computing,https://en.wikipedia.org/wiki/Edge_computing,
 electroVibration,Electrovibration,https://en.wikipedia.org/wiki/Electrovibration,
-ePaper,Electronic Paper,https://en.wikipedia.org/wiki/Electronic_paper,Digital ink
+ePaper,Electronic Paper,https://en.wikipedia.org/wiki/Electronic_paper,,Digital ink
 ePayment,Electronic Payments,https://en.wikipedia.org/wiki/E-commerce_payment_system,,E-cash|E-payments
 erasablePaper,Erasable Paper Printing Systems,https://idm.net.au/blog/0011540-erasable-printing-set-go-mainstream,
 eTag,e-Tags,???,
 eventArch,Event-Driven Architecture,https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture,
 exoskeleton,Exoskeleton,https://en.wikipedia.org/wiki/Powered_exoskeleton,
 expertiseLoc,Expertise Location and Management,https://en.wikipedia.org/wiki/Expertise_finding,
+extranet,Extranets,https://en.wikipedia.org/wiki/Extranet,
 extremeTransaction,Extreme Transaction Processing,https://www.atomikos.com/Main/ForExtremeTransactionProcessing,
 finopsAug,Augmented FinOps,https://www.decisioninc.uk/blog/how-data-analytics-leaders-should-expand-value-while-managing-and-risk/,
 foundModel,Foundation Models,https://en.wikipedia.org/wiki/Foundation_models,
@@ -188,11 +192,13 @@ inkjetMan,Inkjet Manufacturing,???,
 inmemDBMS,In-Memory Database Management Systems,https://en.wikipedia.org/wiki/In-memory_database,
 interactiveTV,Interactive TV,https://en.wikipedia.org/wiki/Interactive_television,
 internalWeb,Internal Web Services,???,
+intranetPub,Intranet Publishing,https://en.wikipedia.org/wiki/Intranet,
 iot,Internet of Things,https://en.wikipedia.org/wiki/Internet_of_things,
 iotPlatform,IoT Platform,https://www.kaaproject.org/blog/what-is-iot-platform,iot
 ipad,Media Tablets,https://en.wikipedia.org/wiki/Tablet_computer,tabletPC
 ipv6,IPv6,https://en.wikipedia.org/wiki/IPv6,
 java,Java Language,https://en.wikipedia.org/wiki/Java_(programming_language),
+javaPlat,Java Platform,https://en.wikipedia.org/wiki/Java_(software_platform),java
 jini,Jini,https://en.wikipedia.org/wiki/Jini,
 jobBank,Internal Talent Marketplaces,https://www.techtarget.com/searchhrsoftware/feature/4-best-practices-for-creating-an-internal-talent-marketplace,
 kindle,E-Book Readers,https://en.wikipedia.org/wiki/E-reader,
@@ -224,7 +230,7 @@ metaOld,Public Virtual Worlds,https://en.wikipedia.org/wiki/Virtual_world,
 metaReally,Metaverse,https://en.wikipedia.org/wiki/Metaverse,
 microDatacenter,Micro Data Centers,https://en.wikipedia.org/wiki/Micro_data_center,
 microFuelCell,Micro Fuel Cells,https://www.techopedia.com/definition/14969/micro-fuel-cell-mfc,,Personal fuel cells
-microPayment,Internet Micropayment Systems,https://en.wikipedia.org/wiki/Micropayment#Recent_systems,Micropayments
+microPayment,Internet Micropayment Systems,https://en.wikipedia.org/wiki/Micropayment#Recent_systems,,Micropayments
 mixedReality,Mixed Reality,https://en.wikipedia.org/wiki/Mixed_reality,
 mms,MMS,https://en.wikipedia.org/wiki/Multimedia_Messaging_Service,
 mobileCommerce,Mobile Commerce,https://en.wikipedia.org/wiki/Mobile_commerce,,M-Commerce
@@ -238,7 +244,8 @@ multiexp,Multiexperience,https://www.cigniti.com/blog/multiexperience-enterprise
 mva,Minimum Viable Arhitecture,https://www.softwareyoga.com/minimum-viable-architecture/,
 namedData,Named Data Networking,https://en.wikipedia.org/wiki/Named_data_networking,
 nanoComp,Nanocomputing,https://en.wikipedia.org/wiki/Nanocomputer,
-netTV,Internet TV,https://en.wikipedia.org/wiki/Streaming_television,
+netComp,Network Computers,https://en.wikipedia.org/wiki/Network_Computer,
+netTV,Internet TV,https://en.wikipedia.org/wiki/Streaming_television,,Interactive/Internet TV
 neurobusiness,Neurobusiness,???,
 neuromorphic,Neuromorphic Hardware,https://en.wikipedia.org/wiki/Neuromorphic_engineering,
 nfcBase,Near-field Communication,https://en.wikipedia.org/wiki/Near-field_communication,
@@ -249,6 +256,7 @@ nlSearch,Natural Language Search,https://en.wikipedia.org/wiki/Natural-language_
 obsDev,Observability-Driven Development,https://www.infoq.com/articles/observability-driven-development/,
 oled,Organic Light-Emitting Devices,https://en.wikipedia.org/wiki/OLED,
 oledP,Light-Emitting Polymer,https://en.wikipedia.org/wiki/OLED,
+onlineCommunity,On-line Communities,https://en.wikipedia.org/wiki/Online_community,
 ontology,Ontologies and Graphs,https://enterprise-knowledge.com/whats-the-difference-between-an-ontology-and-a-knowledge-graph/,
 optane,Optane/MRAM/ReRAM etc.,https://venturebeat.com/2019/11/13/3-emerging-memory-technologies-that-will-change-how-you-handle-data/,
 p2p,Peer-to-Peer Computing,https://en.wikipedia.org/wiki/Peer-to-peer,,P2P
@@ -261,6 +269,7 @@ platformEng,Platform Engineering,https://platformengineering.org/blog/what-is-pl
 podcast,Podcasting,https://en.wikipedia.org/wiki/Podcast,
 portPers,Portable Personality,https://en.wikipedia.org/wiki/Personality_computing,
 predMkt,Prediction Markets,https://en.wikipedia.org/wiki/Prediction_market,
+push,Push,https://en.wikipedia.org/wiki/Push_technology,
 qrCode,QR/Color Code,https://en.wikipedia.org/wiki/QR_code,
 quantSelf,Quantified Self,https://en.wikipedia.org/wiki/Quantified_self,
 quantum,Quantum Computing,https://en.wikipedia.org/wiki/Quantum_computing,
@@ -285,7 +294,7 @@ selfHealSystems,Self-Healing System Technology,https://technologyconversations.c
 selfIntApp,Self-Integrating Applications,https://www.researchgate.net/publication/226226526_Toward_Self-Integrating_Software_Applications_for_Supply_Chain_Management,
 semweb,Semantic Web,https://en.wikipedia.org/wiki/Semantic_Web,
 siliconAnode,Silicon Anode Batteries,https://en.wikipedia.org/wiki/Lithium%E2%80%93silicon_battery,
-skype,Videoc Conferencing,https://en.wikipedia.org/wiki/Videotelephony,
+skype,Video Conferencing,https://en.wikipedia.org/wiki/Videotelephony,,Desktop Videoconferencing
 smallData,Small Data,https://en.wikipedia.org/wiki/Small_data,
 smartAdv,Smart Advisors,???,
 smartCard,Smart Cards,https://en.wikipedia.org/wiki/Smart_card,
@@ -326,6 +335,7 @@ thzWave,Terahertz Waves,https://en.wikipedia.org/wiki/Terahertz_radiation#Terahe
 trustedComputing,Trusted Computing Group,https://en.wikipedia.org/wiki/Trusted_Computing_Group,
 twiki,Corporate Semantic Web,https://en.wikipedia.org/wiki/Semantic_Web,
 twitter,Microblogging,https://en.wikipedia.org/wiki/Microblogging,
+ubiComp,Ubiquitous Computing,https://en.wikipedia.org/wiki/Ubiquitous_computing,
 ultraWideband,Ultra-wideband,https://en.wikipedia.org/wiki/Ultra-wideband,
 unifiedComms,Unified Communications,https://en.wikipedia.org/wiki/Unified_communications,
 userGenContent,Consumer-Generated Media,https://en.wikipedia.org/wiki/User-generated_content,
@@ -334,7 +344,7 @@ videoTeleP,Video Telepresence,https://en.wikipedia.org/wiki/Telepresence#Vision_
 virtualAssistant,Virtual Assistants,https://en.wikipedia.org/wiki/Virtual_assistant,
 virtualWorld,Virtual Environments/Virtual Worlds,https://en.wikipedia.org/wiki/Virtual_world,
 voicePortal,Voice Portals,https://en.wikipedia.org/wiki/Voice_portal,
-voip,VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,,Voice over IP
+voip,VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,,Voice over IP|IP Telephony
 voipP2P,P2P VoIP,https://en.wikipedia.org/wiki/Voice_over_IP,voip
 voipSvc,VoIP Services,https://en.wikipedia.org/wiki/Voice_over_IP,voip
 volumeDisplay,Volumetric Displays,https://en.wikipedia.org/wiki/Volumetric_display,holoDisplay
@@ -360,5 +370,5 @@ wirelessCharger,Wireless Power,https://en.wikipedia.org/wiki/Wireless_power_tran
 writingRecog,Handwriting Recognition,https://en.wikipedia.org/wiki/Handwriting_recognition,
 xbrl,Extensible Business Reporting Language,https://en.wikipedia.org/wiki/XBRL,
 xml,XML,https://en.wikipedia.org/wiki/XML,
-yt,Online Video,https://en.wikipedia.org/wiki/Online_video_platform#Video_hosting_sites,
+yt,Online Video,https://en.wikipedia.org/wiki/Online_video_platform#Video_hosting_sites,,Streaming Media over Web
 zoom,Employee Communications Applications,https://www.beekeeper.io/blog/gartner-report-reveals-mobile-first-employee-communications-applications-are-the-future-of-internal-communications/,
