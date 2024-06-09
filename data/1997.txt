@@ -1,0 +1,24 @@
+sym,prg,ytm,comment
+appleWatch,11.5,5,the ytm values are fake, the source image doesn't provide estimates
+biometric,14,5
+avatar,15.8,5
+ePayment,17.2,5
+dvd,18.5,5
+push,21,2
+smartCard,23.8,2
+javaPlat,25.4,2
+cableModem,26.6,2
+netComp,28,2
+agent,29.8,2
+interactiveTV,32,2
+vr,35,2
+pda,39,1
+skype,45,1
+speechRecog,50,1
+appSharing,55,1
+dbMine,60,1
+java,65,1
+intranetWww,72,1
+oop,80,1
+workflow,88,1
+imaging,95,1

@@ -26,8 +26,8 @@ if[()~key `.tmo.dataDir;
     cb:.tmo.derlogistic[.tmo.a2;.tmo.b2;.tmo.x2;.tmo.y2] xs;
     ca+cb};
 
-//last year done: 1998 going down
-.tmo.showYear:1998;
+//last year done: 1997 going down
+.tmo.showYear:1997;
 //.tmo.showYear:0Ni;
 
 .tmo.aggregate:{
