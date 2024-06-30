@@ -1,0 +1,21 @@
+sym,prg,ytm,comment
+cableModem,13,5,the ytm values are fake, the source image doesn't provide estimates
+dvd,14.5,5
+smartCard,16.8,5
+intranet,18,5
+java,19,5
+internetTerm,21,2
+www,23.6,2
+agent,26,2
+vr,28,2
+interactiveTV,31,2
+pda,34,2
+click2dial,39.5,1
+writingRecog,47,1
+skype,52,1
+speechRecog,58,1
+dbMine,64,1
+oop,73,1
+massParlBase,80,1
+workflow,90,1
+imaging,98,1

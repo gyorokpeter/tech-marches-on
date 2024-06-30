@@ -102,6 +102,7 @@ carbonTrans,Carbon-Based Transistors,https://news.mit.edu/2020/carbon-nanotube-t
 chatBot,Conversational User Interfaces,https://www.xenonstack.com/insights/principles-for-conversational-ui,
 citizenDataSci,Citizen Data Science,https://www.simplilearn.com/citizen-data-scientists-article,
 citizenTwin,Citizen Twin,https://www.gartner.com/en/newsroom/press-releases/2020-08-18-gartner-identifies-five-emerging-trends-that-will-drive-technology-innovation-for-the-next-decade,digitalTwin
+click2dial,Desktop Computer-Telephony Integration,https://en.wikipedia.org/wiki/Computer_telephony_integration,
 cloudBase,Cloud Computing,https://en.wikipedia.org/wiki/Cloud_computing,
 cloudDataEco,Cloud Data Ecosystems,https://www.dbta.com/Editorial/News-Flashes/Challenges-of-Managing-a-Cloud-Data-Ecosystem-149054.aspx,
 cloudHybrid,Hybrid Cloud Computing,https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing/,
@@ -155,7 +156,7 @@ dnaComputing,DNA Computing and Storage,https://en.wikipedia.org/wiki/DNA_digital
 dnaLogic,DNA Logic,https://en.wikipedia.org/wiki/DNA_digital_data_storage,
 droneDelivery,Light Cargo Delivery Drones,https://en.wikipedia.org/wiki/Delivery_drone,
 dsl,xDSL/Cable Modems,https://en.wikipedia.org/wiki/Digital_subscriber_line,,xDSL
-dvd,DVD,https://en.wikipedia.org/wiki/DVD,
+dvd,DVD,https://en.wikipedia.org/wiki/DVD,,Digital Video Disk
 dynRiskGov,Dynamic Risk Governance,https://www.gartner.com/en/articles/why-dynamic-risk-governance-starts-with-shared-data,
 edgeComp,Edge Computing,https://en.wikipedia.org/wiki/Edge_computing,
 electroVibration,Electrovibration,https://en.wikipedia.org/wiki/Electrovibration,
@@ -196,13 +197,15 @@ inkjetMan,Inkjet Manufacturing,???,
 inmemDBMS,In-Memory Database Management Systems,https://en.wikipedia.org/wiki/In-memory_database,
 interactiveTV,Interactive TV,https://en.wikipedia.org/wiki/Interactive_television,,Interactive/Web TV
 internalWeb,Internal Web Services,???,
-intranetPub,Intranet Publishing,https://en.wikipedia.org/wiki/Intranet,
-intranetWww,World Wide Web + Intranets,https://en.wikipedia.org/wiki/Intranet,
+internetTerm,Internet Terminals,https://en.wikipedia.org/wiki/Internet#Access,
+intranet,Intranets,https://en.wikipedia.org/wiki/Intranet,
+intranetPub,Intranet Publishing,https://en.wikipedia.org/wiki/Intranet,intranet
+intranetWww,World Wide Web + Intranets,https://en.wikipedia.org/wiki/Intranet,intranet
 iot,Internet of Things,https://en.wikipedia.org/wiki/Internet_of_things,
 iotPlatform,IoT Platform,https://www.kaaproject.org/blog/what-is-iot-platform,iot
 ipad,Media Tablets,https://en.wikipedia.org/wiki/Tablet_computer,tabletPC
 ipv6,IPv6,https://en.wikipedia.org/wiki/IPv6,
-java,Java Language,https://en.wikipedia.org/wiki/Java_(programming_language),,Java - the Language
+java,Java Language,https://en.wikipedia.org/wiki/Java_(programming_language),,Java|Java - the Language
 javaPlat,Java Platform,https://en.wikipedia.org/wiki/Java_(software_platform),java,Java - the Platform
 jini,Jini,https://en.wikipedia.org/wiki/Jini,
 jobBank,Internal Talent Marketplaces,https://www.techtarget.com/searchhrsoftware/feature/4-best-practices-for-creating-an-internal-talent-marketplace,
@@ -224,8 +227,9 @@ lrWpan,Low-rate Wireless Personal Area Network (802.15.4),https://en.wikipedia.o
 m2m,Machine-to-Machine Communication Services,https://en.wikipedia.org/wiki/Machine_to_machine,
 machineReadLaw,Machine-Readable Legislation,https://medium.com/@tjharrop/what-are-machine-readable-laws-8c9f39159cb5,
 mashupWeb,Mashup (webapps),https://en.wikipedia.org/wiki/Mashup_(web_application_hybrid),
-massParlProcGridExt,External MPP Grids,https://en.wikipedia.org/wiki/Massively_parallel,
-massParlProcGridInt,Internal MPP Grids,https://en.wikipedia.org/wiki/Massively_parallel,
+massParlBase,Massively Parallel Processing,https://en.wikipedia.org/wiki/Massively_parallel,
+massParlProcGridExt,External MPP Grids,https://en.wikipedia.org/wiki/Massively_parallel,massParlBase
+massParlProcGridInt,Internal MPP Grids,https://en.wikipedia.org/wiki/Massively_parallel,massParlBase
 mems,Microelectromechanical Systems,https://en.wikipedia.org/wiki/MEMS,
 meshNet,Mesh Networks,https://en.wikipedia.org/wiki/Mesh_networking,
 meshNetS,Mesh Networks: Sensor,https://en.wikipedia.org/wiki/Mesh_networking,meshNet
@@ -375,6 +379,7 @@ wimedia,UWB/802.15.3a/WiMedia,https://en.wikipedia.org/wiki/IEEE_802.15#IEEE_802
 wirelessCharger,Wireless Power,https://en.wikipedia.org/wiki/Wireless_power_transfer,
 workflow,Workflow,???,
 writingRecog,Handwriting Recognition,https://en.wikipedia.org/wiki/Handwriting_recognition,
+www,World Wide Web,https://en.wikipedia.org/wiki/World_Wide_Web,
 xbrl,Extensible Business Reporting Language,https://en.wikipedia.org/wiki/XBRL,
 xml,XML,https://en.wikipedia.org/wiki/XML,
 yt,Online Video,https://en.wikipedia.org/wiki/Online_video_platform#Video_hosting_sites,,Streaming Media over Web
