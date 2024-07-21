@@ -1,0 +1,11 @@
+sym,prg,ytm,comment
+emergentAlgo,8,5,the ytm values are fake, the source image doesn't provide estimates
+wireless,13,5
+agent,23,2
+infoStrada,25.5,2
+vr,28.5,2
+skype,32,2
+writingRecog,40,1
+oop,53,1
+speechRecog,67,1
+knowBasedSys,80,1
