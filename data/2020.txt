@@ -9,7 +9,7 @@ brainComputerIf2,9.5,5
 gan,10,5
 biodegSensor,10.5,10
 diffPriv,11,5
-5GPriv,11.5,5
+5gPriv,11.5,5
 smallData,12,5
 adml,12.7,5
 aiComp,13.1,2
