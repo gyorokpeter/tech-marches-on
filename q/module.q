@@ -27,7 +27,7 @@ if[()~key `.tmo.dataDir;
     ca+cb};
 
 //last year done: 2024 going up
-.tmo.showYear:2024;
+.tmo.showYear:2025;
 //.tmo.showYear:0Ni;
 
 .tmo.aggregate:{
